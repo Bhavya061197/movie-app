@@ -1,2 +1,2 @@
 # movie-app
-Application helps only to seach a movie from the list.
+Application helps only to search a movie from the list.
